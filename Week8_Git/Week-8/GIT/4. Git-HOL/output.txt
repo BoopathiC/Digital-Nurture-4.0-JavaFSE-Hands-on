@@ -1,0 +1,13 @@
+Example Merge Conflict in hello.xml:
+
+<<<<<<< HEAD
+<message>
+    <text>Hello from master branch!</text>
+</message>
+=======
+<message>
+    <text>Hello from GitWork branch!</text>
+</message>
+>>>>>>> GitWork
+
+Resolution: Choose one version or combine both messages.
